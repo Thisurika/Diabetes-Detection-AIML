@@ -5,6 +5,11 @@
 This project is a Machine Learning-based system that predicts whether a person has diabetes or not based on medical input data. The model is trained using a dataset containing health-related features such as glucose level, BMI, age, and blood pressure.
 
 ---
+## 🎯 Objectives
+- Predict diabetes using patient health data  
+- Apply machine learning algorithms for classification  
+- Perform data preprocessing and feature scaling  
+- Evaluate model performance and accuracy  
 
 ---
 
