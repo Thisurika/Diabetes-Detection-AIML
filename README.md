@@ -17,7 +17,6 @@ This project is a Machine Learning-based system that predicts whether a person h
 - Data preprocessing pipeline  
 - Train and test ML models  
 - Predict diabetes from user input  
-- Simple and easy-to-use structure  
 
 ---
 
